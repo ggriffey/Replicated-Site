@@ -2,6 +2,11 @@
 
 Completed as part of the Odin Project curriculum (@ https://www.theodinproject.com/lessons/foundations-landing-page).
 
+
+Project goal: reacreate the exact layout and styles of a landing page (see "mockup.png"). 
+Finished product is here: https://ggriffey.github.io/Replicated-Site/
+
+
 This took me just under 4 hours, and was a great way to go back and review some of the CSS concepts 
 I needed to brush up on (like flexbox and alignment/positioning of items, border attributes, etc.).
 
